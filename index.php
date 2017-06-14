@@ -5,7 +5,7 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/png" href="/wp-includes/images/favicon.png">
 	
   <? php wp_head(); ?>
   <!-- Stylesheets
@@ -84,11 +84,11 @@
 			<!-- Logo
             ============================================= -->
 			<div id="logo">
-				<a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png">Udemy</a>
+				<a href="index.html" class="standard-logo" data-dark-logo="/wp-includes/images/logo-dark.png">Udemy</a>
 			</div><!-- #logo end -->
 
 			<div class="top-advert">
-				<img src="images/magazine/ad.jpg" alt="Ad">
+				<img src="/wp-includes/images/magazine/ad.jpg" alt="Ad">
 			</div>
 
 		</div>
@@ -178,7 +178,7 @@
 							<div class="top-cart-items">
 								<div class="top-cart-item clearfix">
 									<div class="top-cart-item-image">
-										<a href="#"><img src="images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt" /></a>
+										<a href="#"><img src="/wp-includes/images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt" /></a>
 									</div>
 									<div class="top-cart-item-desc">
 										<a href="#">Blue Round-Neck Tshirt</a>
@@ -188,7 +188,7 @@
 								</div>
 								<div class="top-cart-item clearfix">
 									<div class="top-cart-item-image">
-										<a href="#"><img src="images/shop/small/6.jpg" alt="Light Blue Denim Dress" /></a>
+										<a href="#"><img src="/wp-includes/images/shop/small/6.jpg" alt="Light Blue Denim Dress" /></a>
 									</div>
 									<div class="top-cart-item-desc">
 										<a href="#">Light Blue Denim Dress</a>
@@ -257,7 +257,7 @@
 
 						<div class="entry clearfix">
 							<div class="entry-image">
-								<a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/blog/standard/17.jpg" alt="Standard Post with Image"></a>
+								<a href="/wp-includes/images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="images/blog/standard/17.jpg" alt="Standard Post with Image"></a>
 							</div>
 							<div class="entry-title">
 								<h2><a href="single.html">This is a Standard post with a Preview Image</a></h2>
@@ -298,9 +298,9 @@
 								<div class="fslider" data-arrows="false" data-lightbox="gallery">
 									<div class="flexslider">
 										<div class="slider-wrap">
-											<div class="slide"><a href="images/blog/full/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/standard/10.jpg" alt="Standard Post with Gallery"></a></div>
-											<div class="slide"><a href="images/blog/full/20.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/standard/20.jpg" alt="Standard Post with Gallery"></a></div>
-											<div class="slide"><a href="images/blog/full/21.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/blog/standard/21.jpg" alt="Standard Post with Gallery"></a></div>
+											<div class="slide"><a href="/wp-includes/images/blog/full/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="/wp-includes/images/blog/standard/10.jpg" alt="Standard Post with Gallery"></a></div>
+											<div class="slide"><a href="/wp-includes/images/blog/full/20.jpg" data-lightbox="gallery-item"><img class="image_fade" src="/wp-includes/images/blog/standard/20.jpg" alt="Standard Post with Gallery"></a></div>
+											<div class="slide"><a href="/wp-includes/images/blog/full/21.jpg" data-lightbox="gallery-item"><img class="image_fade" src="/wp-includes/images/blog/standard/21.jpg" alt="Standard Post with Gallery"></a></div>
 										</div>
 									</div>
 								</div>
@@ -363,7 +363,7 @@
 									<div class="iportfolio">
 										<div class="portfolio-image">
 											<a href="#">
-												<img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
+												<img src="/wp-includes/images/portfolio/4/3.jpg" alt="Mac Sunglasses">
 											</a>
 										</div>
 										<div class="portfolio-desc center nobottompadding">
