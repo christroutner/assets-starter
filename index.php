@@ -458,5 +458,7 @@
 ============================================= -->
 <script type="text/javascript" src="js/functions.js"></script>
 
+  <?php wp_footer(); ?>
+  
 </body>
 </html>
