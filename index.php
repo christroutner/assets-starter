@@ -7,7 +7,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<link rel="icon" type="image/png" href="/wp-content/themes/assets-starter/images/favicon.png">
 	
-  <? php wp_head(); ?>
+  <?php wp_head(); ?>
   <!-- Stylesheets
 	============================================= -->
 	<!--
