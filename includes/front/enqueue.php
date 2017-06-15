@@ -1,7 +1,7 @@
 <?php
 
 function ju_enqueue() {
-  echo 'Hello World!';
+  echo 'Hello World! - enqueue.php';
   //echo get_template_directory_uri();
   //echo '/css/bootstrap.css';
   
