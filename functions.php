@@ -1,5 +1,6 @@
 <?php
 echo 'Hello World - functions.php';
+echo get_template_directory();
 // Setup
 
 
