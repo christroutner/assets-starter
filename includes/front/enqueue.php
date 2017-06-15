@@ -2,8 +2,8 @@
 
 function ju_enqueue() {
   echo 'Hello World!';
-  echo get_template_directory_uri();
-  echo '/css/bootstrap.css';
+  //echo get_template_directory_uri();
+  //echo '/css/bootstrap.css';
   
   /*
   wp_register_style( 'ju_google_fonts', 'http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic' );
