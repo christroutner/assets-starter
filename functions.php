@@ -1,6 +1,6 @@
 <?php
 echo 'Hello World - functions.php';
-echo get_template_directory();
+echo get_template_directory() . '/includes/front/enqueue.php';
 // Setup
 
 
