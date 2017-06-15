@@ -1,5 +1,7 @@
 <?php
 
+echo 'Test'
+
 function ju_enqueue() {
   echo 'Hello World! - enqueue.php';
   //echo get_template_directory_uri();
