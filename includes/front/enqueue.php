@@ -1,6 +1,6 @@
 <?php
 
-echo 'Test'
+echo 'Test';
 
 function ju_enqueue() {
   echo 'Hello World! - enqueue.php';
